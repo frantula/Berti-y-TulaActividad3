@@ -1,0 +1,19 @@
+
+body{
+    font-family: cursive;
+    background-color: rgb(183, 118, 131);
+}
+
+.pre{
+
+    text-align:center;
+}
+
+.allconteiner{
+    display: flex;
+}
+
+.ft{
+    margin-left: 660px;
+}
+
